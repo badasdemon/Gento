@@ -21,44 +21,233 @@
   ],"Categories":
   [
     {
-      "category":"All Maps"
-    },{
-    "category":"Adventure"
+    "category":"All Mods"
   },{
-    "category":"Minigame"
+    "category":"Mods"
   },{
-    "category":"Survival"
-  },{
-    "category":"Puzzle"
-  },{
-    "category":"Creation"
-  },{
-    "category":"RedStone"
+    "category":"Other Mods"
   }
   ],
-  "Maps":
+  "Mods":
   [
     {
       "id":1,
-      "name":"Star Wars Imperial Rain (Open World)",
-      "category":"Adventure",
-      "image":"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg",
-      "download":"https://aliendro.id/uploads/demo/worldmap/wars.mcworld",
-      "description":"<p style=\"text-align: justify;\"><strong>Is this multiplayer compatible?</strong>&nbsp;</p>\n<p style=\"text-align: justify;\">No, this map is intended for single-player play. If you try this with other people game-breaking bugs or soft locks may appear. If you want to play Imperial Rain with friends there's information on it in the spawn hub.</p>\n<p style=\"text-align: justify;\"><strong>How do I play or process?</strong></p>\n<p style=\"text-align: justify;\">You first spawn in a hub, it has information on how to play and what to do.</p>\n<p style=\"text-align: justify;\">To process the story you go to the white beacon and talk to the NPC to begin the mission.</p>\n<p style=\"text-align: justify;\"><strong>The Story</strong></p>\n<p style=\"text-align: justify;\">The game takes place in the year 3 ABY or during The Empire Strikes Back! You play as Miller Clark, he's freshly out of the Empire after being conscripted. This is one of the first open-world maps on Minecraft Bedrock to have a protagonist. This map also features voice acting and cutscenes! Miller Clark is looking for a new line of work and not interested in the traditional ways of work. Rinson, an old friend of Miller is eagerly waiting for him to come back so they can start their \"work\". See Star Wars never seen before in this Open World game where you take in the eyes of Miller and his criminal experience across the galaxy! It takes on a more mature style on Star Wars!</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 319px; height: 156px;\" src=\"https://api.mcpedl.com/storage/submissions/96216/images/star-wars-imperial-rain-open-world-story-sandbox_2.jpeg\" /></figure>\n<p style=\"text-align: justify;\"><strong>The Maps</strong></p>\n<p style=\"text-align: justify;\">There are three open planets seen in the films!</p>\n<p style=\"text-align: justify;\">Coruscant</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 320px; height: 180px;\" src=\"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_3.jpeg\" /></figure>\n<p style=\"text-align: justify;\">Tatooine</p>\n<p style=\"text-align: justify;\">Bespin</p>\n<p style=\"text-align: justify;\">They also have iconic locations seen in the films!</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 322px; height: 181px;\" src=\"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_7.jpeg\" /></figure>\n<p style=\"text-align: justify;\"><strong>Content</strong></p>\n<p style=\"text-align: justify;\">There are many blasters you can purchase in-game that are seen in the films. There is food that <a href=\"https://canbabieseat.com/\">you can eat</a> that is seen in films and unique enemies! You can freely roam the planets.</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 320px; height: 182px;\" src=\"https://api.mcpedl.com/storage/submissions/96216/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg\" /></figure>\n<p style=\"text-align: justify;\">&nbsp;</p>"
-    },{
-    "id":2,
-    "name":"Temple Speedrunning Practice",
-    "category":"Minigame",
-    "image":"file:///android_asset/ml.jpeg",
-    "download":"https://aliendro.id/uploads/demo/worldmap/TemplePractice.zip",
-    "description":"<div>\n<p style=\"text-align: justify;\">Have you ever tried speedrunning minecraft for yourself and find it difficult? Well, this map helps you in one aspect of speedrunning if you can find it. You can train how to loot the desert temple in many different ways.&nbsp;</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">&nbsp;</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 344px; height: 155px;\" src=\"https://api.mcpedl.com/storage/submissions/96028/images/temple-speedrunning-practice_3.jpeg\" /></figure>\n<p style=\"text-align: justify;\">Spawning inside the world, you are outside a desert temple floating in the middle of nowhere to clear players off distractions. The temple is almost accurately recreated to look like a real one, outside it you will find two buttons. One button resets the map if you ever mess up and want to start over again. You have the choice to loot the temple with nothing at all since it is very much possible, but if you want to have the ideal tools you want for a speedrun, press the other button.</p>\n<p><img class=\"lazyLoad isLoaded\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://api.mcpedl.com/storage/submissions/96028/images/temple-speedrunning-practice_5.jpeg\" width=\"331\" height=\"149\" /></p>\n</div>\n</div>"
-  },{
-    "id":3,
-    "name":"Fantasy Bedwars",
-    "category":"Survival",
-    "image":"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_5.jpeg",
-    "download":"https://aliendro.id/uploads/demo/worldmap/Bedwars.mcworld",
-    "description":"<div>\n<p style=\"text-align: justify;\">Welcome to Bedwars! You can play with up to 16 players on the exciting Fantasy map! Main goal of Bedwars is to destroy other teams' beds and eliminate them. You also have to collect loot from generators to protect your bed and buy gear. If your bed gets destroyed, you will no longer respawn. This map is an extension to PortalMG and Void Games Realms.</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">&nbsp;</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 339px; height: 212px;\" src=\"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_2.png\" /></figure>\n<p style=\"text-align: justify;\">This is the map you will be playing on. Tip: Study the map closely. You will be able to get to other team's islands and generators much faster.</p>\n</div>\n</div>"
+      "name":"Apocalypse Tank",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Apocalypse%20Tank/Apocalypse%20Tank.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Apocalypse%20Tank/Apocalypse%20Tank.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Apocalypse Tank</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":2,
+      "name":"BMPT Terminator - 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">BMPT Terminator - 3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":3,
+      "name":"BTR-4",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-4/BTR-4.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-4/BTR-4.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">BTR-4</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+   },
+   {
+    "id":4,
+    "name":"BTR-90",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-90/BTR-90.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-90/BTR-90.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">BTR-90</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":5,
+    "name":"Car raid v5",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Car%20raid%20v5/Car%20raid%20v5.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Car%20raid%20v5/Car%20raid%20v5.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Car raid v5</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":6,
+    "name":"E-100",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/E-100/E-100.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/E-100/E-100.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">E-100</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":7,
+    "name":"Kurganets - 25",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Kurganets%20-%2025/Kurganets%20-%2025.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Kurganets%20-%2025/Kurganets%20-%2025.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Kurganets - 25</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
   }
+    ,
+  {
+    "id":8,
+    "name":"M1A2 ABRAMS",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M1A2%20ABRAMS/M1A2%20ABRAMS.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M1A2%20ABRAMS/M1A2%20ABRAMS.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">M1A2 ABRAMS</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":9,
+    "name":"M18 Hellcat",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M18%20Hellcat/M18%20Hellcat.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M18%20Hellcat/M18%20Hellcat.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">M18 Hellcat</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":10,
+    "name":"Panzer 4",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzer%204/Panzer%204.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzer%204/Panzer%204.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Panzer 4</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":11,
+    "name":"Panzerkampfwagen IV",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Panzerkampfwagen IV</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":12,
+    "name":"Panzerkampfwagen VIII Maus",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Panzerkampfwagen VIII Maus</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":13,
+    "name":"PT-76",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/PT-76/PT-76.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/PT-76/PT-76.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">PT-76</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":14,
+    "name":"T-14 Armata",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-14%20Armata/T-14%20Armata.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-14%20Armata/T-14%20Armata.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">T-14 Armata</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":15,
+    "name":"T-34-85",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-34-85/T-34-85.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-34-85/T%2034%2085.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">T-34-85</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":16,
+    "name":"T26 V3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T26%20V3/T26%20V3.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T26%20V3/T26%20V3.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">T26 V3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":17,
+    "name":"T72B3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T72B3/T72B3.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T72B3/T72B3.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">T72B3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":18,
+    "name":"Tank Destroyer M18 Hellcat",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tank Destroyer M18 Hellcat</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":19,
+    "name":"TBMP T15 Armata",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TBMP%20T15%20Armata/TBMP%20T15%20Armata.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TBMP%20T15%20Armata/TBMP%20T15%20Armata.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">TBMP T15 Armata</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":20,
+    "name":"Tiger 1",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%201/Tiger%201.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%201/Tiger%201.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tiger 1</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":21,
+    "name":"TIGER 2 v7",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TIGER%202%20v7/TIGER%202%20v7.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TIGER%202%20v7/TIGER%202%20v7.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">TIGER 2 v7</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":22,
+    "name":"Tiger 3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%203/Tiger%203.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%203/Tiger%203.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tiger 3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":23,
+    "name":"Tiger II",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%20II/Tiger%20II.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%20II/Tiger%20II.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tiger II</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":24,
+    "name":"Т-29",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A2-29/%D0%A2-29.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A2-29/%D0%A2-29.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Т-29</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+     ,
+  {
+    "id":25,
+    "name":"Т84 120 Scimitar",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Т84 120 Scimitar</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    
   ]
 }
