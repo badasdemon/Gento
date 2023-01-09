@@ -49,21 +49,21 @@
       "category":"Adventure",
       "image":"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg",
       "download":"https://aliendro.id/uploads/demo/worldmap/wars.mcworld",
-      "description":"https://aweu.net/MOD%20MELON/IMG/desc.html"
+      "description":"https://raw.githubusercontent.com/badasdemon/Gento/main/eue/ueue.html"
     },{
     "id":2,
     "name":"Temple Speedrunning Practice",
     "category":"Minigame",
     "image":"file:///android_asset/ml.jpeg",
     "download":"https://aliendro.id/uploads/demo/worldmap/TemplePractice.zip",
-    "description":"<div>\n<p style=\"text-align: justify;\">Welcome to Bedwars! You can play with up to 16 players on the exciting Fantasy map! Main goal of Bedwars is to destroy other teams' beds and eliminate them. You also have to collect loot from generators to protect your bed and buy gear. If your bed gets destroyed, you will no longer respawn. This map is an extension to PortalMG and Void Games Realms.</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">&nbsp;</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 339px; height: 212px;\" src=\"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_2.png\" /></figure>\n<p style=\"text-align: justify;\">This is the map you will be playing on. Tip: Study the map closely. You will be able to get to other team's islands and generators much faster.</p>\n</div>\n</div>"
+    "description":"https://raw.githubusercontent.com/badasdemon/Gento/main/eue/ueue.html"
   },{
     "id":3,
     "name":"Fantasy Bedwars",
     "category":"Survival",
     "image":"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_5.jpeg",
     "download":"https://aliendro.id/uploads/demo/worldmap/Bedwars.mcworld",
-    "description":"<div>\n<p style=\"text-align: justify;\">Welcome to Bedwars! You can play with up to 16 players on the exciting Fantasy map! Main goal of Bedwars is to destroy other teams' beds and eliminate them. You also have to collect loot from generators to protect your bed and buy gear. If your bed gets destroyed, you will no longer respawn. This map is an extension to PortalMG and Void Games Realms.</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">&nbsp;</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 339px; height: 212px;\" src=\"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_2.png\" /></figure>\n<p style=\"text-align: justify;\">This is the map you will be playing on. Tip: Study the map closely. You will be able to get to other team's islands and generators much faster.</p>\n</div>\n</div>"
+    "description":"https://raw.githubusercontent.com/badasdemon/Gento/main/eue/ueue.html"
   }
   ]
 }
