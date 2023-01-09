@@ -6,14 +6,14 @@
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_natives":"",
       "open_ads_admob":"",
-      "switch_banner_natives":"",
-      "on_off_native_listview":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -53,6 +53,70 @@
   },
     {
     "id":3,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":4,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":5,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":6,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":7,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":8,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":9,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":10,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
+    "id":11,
       "name":"Kraken 3",
       "category":"Mods",
       "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
