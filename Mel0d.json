@@ -49,21 +49,23 @@
       "category":"Adventure",
       "image":"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg",
       "download":"https://aliendro.id/uploads/demo/worldmap/wars.mcworld",
-      "description":"https://raw.githubusercontent.com/badasdemon/Gento/main/eue/ueue.html"
-    },{
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
     "id":2,
     "name":"Temple Speedrunning Practice",
     "category":"Minigame",
     "image":"file:///android_asset/ml.jpeg",
     "download":"https://aliendro.id/uploads/demo/worldmap/TemplePractice.zip",
-    "description":"https://raw.githubusercontent.com/badasdemon/Gento/main/eue/ueue.html"
-  },{
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+    {
     "id":3,
     "name":"Fantasy Bedwars",
     "category":"Survival",
     "image":"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_5.jpeg",
     "download":"https://aliendro.id/uploads/demo/worldmap/Bedwars.mcworld",
-    "description":"https://raw.githubusercontent.com/badasdemon/Gento/main/eue/ueue.html"
+    "description":"https://aweu.net/MOD%20MELON/ueue.html"
   }
   ]
 }
