@@ -26,45 +26,37 @@
   ],"Categories":
   [
     {
-      "category":"All Maps"
-    },{
-    "category":"Adventure"
+    "category":"All Mods"
   },{
-    "category":"Minigame"
+    "category":"Mods"
   },{
-    "category":"Survival"
-  },{
-    "category":"Puzzle"
-  },{
-    "category":"Creation"
-  },{
-    "category":"RedStone"
+    "category":"Other Mods"
   }
   ],
-  "Maps":
+  "Mods":
   [
     {
       "id":1,
-      "name":"Star Wars Imperial Rain (Open World)",
-      "category":"Adventure",
-      "image":"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg",
-      "download":"https://aliendro.id/uploads/demo/worldmap/wars.mcworld",
+      "name":"Kraken",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken/Kraken.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken/Kraken.zip",
       "description":"https://aweu.net/MOD%20MELON/ueue.html"
     },
     {
     "id":2,
-    "name":"Temple Speedrunning Practice",
-    "category":"Minigame",
-    "image":"file:///android_asset/ml.jpeg",
-    "download":"https://aliendro.id/uploads/demo/worldmap/TemplePractice.zip",
+      "name":"Kraken 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%202/Kraken-2.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%202/Kraken%202.zip",
     "description":"https://aweu.net/MOD%20MELON/ueue.html"
   },
     {
     "id":3,
-    "name":"Fantasy Bedwars",
-    "category":"Survival",
-    "image":"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_5.jpeg",
-    "download":"https://aliendro.id/uploads/demo/worldmap/Bedwars.mcworld",
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
     "description":"https://aweu.net/MOD%20MELON/ueue.html"
   }
   ]
